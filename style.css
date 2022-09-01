@@ -1,0 +1,22 @@
+body{ background-color: #212529;}
+
+p{color: black;}
+
+.btn-primary{color: black; background-color: lawngreen; border-color: lawngreen;}
+
+aside{color: lawngreen;}
+
+h5{color: lawngreen;}
+
+.btn-danger{color: black; background-color: lawngreen; border-color: lawngreen;}
+
+.card-body{background-color: rgb(156, 235, 156);}
+
+.card{background-color: rgb(156, 235, 156);}
+
+.btn-primary:hover{background-color: lawngreen; border-color: lawngreen;}
+
+.btn-danger:hover{background-color: lawngreen; border-color: lawngreen;}
+
+.list-group-item{background-color: black;}
+
